@@ -1,0 +1,28 @@
+####################################################
+#   Color mapping for PWFusion VL6180X library
+####################################################
+
+####################################################
+#   Classes (KEYWORD1)
+####################################################
+PWFusion_VL6180X						KEYWORD1
+
+
+####################################################
+#   Functions (KEYWORD2)
+####################################################
+Init									KEYWORD2
+updateDistance							KEYWORD2
+updateAmbLight							KEYWORD2
+
+####################################################
+#   Constants (LITERAL1)
+####################################################
+ALS_GAIN_20 							LITERAL1
+ALS_GAIN_10								LITERAL1
+ALS_GAIN_5								LITERAL1
+ALS_GAIN_2_5							LITERAL1
+ALS_GAIN_1_67							LITERAL1
+ALS_GAIN_1_25							LITERAL1
+ALS_GAIN_1								LITERAL1
+ALS_GAIN_40								LITERAL1
